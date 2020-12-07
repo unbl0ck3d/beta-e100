@@ -3,6 +3,9 @@ var fancyButtons=[
 		['Google','www.google.com','green'],
 		['YouTube','www.youtube.com','red'],
 		['Discord','www.discord.com/login','blue'],
+		['Twitter','www.twitter.com','blue'],
+		['Twitch','www.twitch.tv','purple'],
+		['Unblocked Games 66 EZ','sites.google.com/site/unblockedgames66ez/','blue'],
 	],
 	getDifference=((begin,finish)=>{
 		var ud=new Date(finish-begin);
