@@ -5,7 +5,7 @@ var fancyButtons=[
 		['Discord','www.discord.com/login','blue'],
 		['Twitter','www.twitter.com','blue'],
 		['Twitch','www.twitch.tv','purple'],
-		['Unblocked Games 66 EZ','sites.google.com/site/unblockedgames66ez/','blue'],
+		['UG 66 EZ','sites.google.com/site/unblockedgames66ez/','blue'],
 	],
 	getDifference=((begin,finish)=>{
 		var ud=new Date(finish-begin);
